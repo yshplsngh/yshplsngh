@@ -1,7 +1,7 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+<h1 align="center">Hi 👋, I'm Yashpal Singh</h1>
+<h3 align="center">A passionate developer from India..</h3>
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=govind-upadhyay-12&label=Profile%20views&color=0e75b6&style=flat" alt="govind-upadhyay-12" /> </p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
