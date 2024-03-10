@@ -6,7 +6,7 @@
 - Language
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,nodejs,express,mongodb,postgresql,prisma" />
+    <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,nodejs,express,mongodb,postgresql,prisma,java" />
   </a>
 </p>
 
