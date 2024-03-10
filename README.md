@@ -3,12 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yshplsngh&label=Profile%20views&color=0e75b6&style=flat" alt="yshplsngh" /> </p>
 
+- Language
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,nodejs,express,mongodb,postgresql,prisma" />
   </a>
 </p>
-  
+
+- Tool
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,webstorm,vscode" />
+  </a>
+</p>
   ##
  
 <div> 
