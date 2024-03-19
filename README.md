@@ -13,7 +13,7 @@
 - Tool
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,webstorm,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,docker,webstorm,vscode" />
   </a>
 </p>
 
