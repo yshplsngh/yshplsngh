@@ -23,19 +23,3 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer.;Open-Source+Contributor+and+Maintainer.;Love+to+learn+new+stuffs...<3"></a>
 </p>
-
-<br>
-
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- Full-Stack Developer
-- Open Source Contributor/Maintainer
-- Experienced in MERN Stack
-- Passionate about learning new technologies and building projects...
-
-<br>
-<br>
