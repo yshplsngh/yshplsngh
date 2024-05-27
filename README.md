@@ -13,14 +13,14 @@
 
 - Language
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/yshplsngh/Task">
     <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,nodejs,express,mongodb,postgresql,prisma,java" />
   </a>
 </p>
 
 - Tool
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/yshplsngh/Task">
     <img src="https://skillicons.dev/icons?i=git,github,postman,docker,webstorm,vscode" />
   </a>
 </p>
