@@ -7,9 +7,6 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yshplsngh&label=Profile%20views&color=0e75b6&style=flat" alt="yshplsngh" /> </p>
-<h1 align="left">
-  <a href='https://github.com/yshplsngh/Task'>Task</a>
-</h1>
 
 - Language
 <p align="left">
