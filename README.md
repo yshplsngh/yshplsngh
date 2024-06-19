@@ -11,13 +11,13 @@
 - Language
 <p align="left">
   <a href="https://github.com/yshplsngh/Task">
-    <img src="https://skillicons.dev/icons?i=react,redux,typescript,nodejs,express,postgresql,prisma,mongodb,java" />
+    <img src="https://skillicons.dev/icons?i=react,redux,typescript,nodejs,express,postgresql,prisma,mongodb,docker,redis,java" />
   </a>
 </p>
 
 - Tool
 <p align="left">
   <a href="https://github.com/yshplsngh/Task">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,docker,webstorm,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,webstorm,vscode" />
   </a>
 </p>
