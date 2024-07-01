@@ -18,6 +18,6 @@
 - Tool
 <p align="left">
   <a href="https://github.com/yshplsngh/Task">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,webstorm,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,webstorm,vscode"/>
   </a>
 </p>
