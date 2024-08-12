@@ -11,7 +11,7 @@
 - Language
 <p align="left">
   <a href="https://github.com/yshplsngh/Task">
-    <img src="https://skillicons.dev/icons?i=react,redux,typescript,nodejs,express,postgresql,prisma,mongodb,docker,redis,java" />
+    <img src="https://skillicons.dev/icons?i=nextjs,redux,typescript,nodejs,express,postgresql,prisma,mongodb,docker,redis,java" />
   </a>
 </p>
 
