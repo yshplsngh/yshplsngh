@@ -1,5 +1,5 @@
 <h3 align="center">
-I am Yashpal, a 2025 undergraduate Full stack developer, currently working on my [https://github.com/feedback-testimonial](Project)
+I am Yashpal, a 2025 undergraduate Full stack developer, currently working on my <a href="https://github.com/feedback-testimonial">Project.</a>
 </h3>
 <p align="center">
   <img align="center" src="https://wallpaperaccess.com//full/8881418.gif">
