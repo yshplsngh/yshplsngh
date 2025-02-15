@@ -1,5 +1,5 @@
 <h3 align="center">
-I am Yashpal, a 2025 undergraduate Full stack developer.
+Hi, I'm Yashpal, a Full-Stack Developer.
 </h3>
 <p align="center">
   <img align="center" src="https://wallpaperaccess.com//full/8881418.gif">
